@@ -1,4 +1,4 @@
-<img width="1440" height="3040" alt="Screen Shot 2026-10-07 at 10 55 51" src="https://github.com/user-attachments/assets/09bd4b59-3de2-4f36-a871-699d028735d4" /># پیاده‌سازی رابط کاربری صفحه اصلی علی‌بابا
+ پیاده‌سازی رابط کاربری صفحه اصلی علی‌بابا
 
 این پروژه، پیاده‌سازی رابط کاربری صفحه اصلی سایت علی‌بابا است که با **React، Vite و Tailwind CSS** توسعه داده شده است.
 
@@ -13,8 +13,6 @@
 > <img width="1366" height="768" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/92ab5fcb-899f-487d-99dc-e1ec89fff9e5" />
 <img width="1366" height="768" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/bc2fb018-bd71-4e3b-8990-e894fe55edca" />
 <img width="1366" height="768" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/3dbc5e55-0a83-479f-9a32-ec7ab4d58c67" />
-<img width="1366" height="768" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/01eca1b6-e79c-41e4-b2cd-27226490c899" />
-<img width="1366" height="768" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/f8d262d1-c8f2-4a75-9546-4696a07c1bdc" />
 
 >  نسخه موبایل:
 > ![Uploading Scre<img width="1440" height="3040" alt="Screen Shot 2026-10-07 at 10 54 55" src="https://github.com/user-attachments/assets/a01f1084-6411-4f19-9c88-ae7864baa710" />
