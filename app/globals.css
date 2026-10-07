@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "alibaba";
+  src: url("/fonts/alibaba.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --color-header: #4b5259;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@theme {
+  --font-alibaba: alibaba, system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    alibaba,
+    system-ui,
+    BlinkMacSystemFont,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+  direction: rtl;
+}
+
+.bg-transition {
+  transition-property: background-color, background-image;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+.break-anywhere {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+ul,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  max-width: 100%;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
